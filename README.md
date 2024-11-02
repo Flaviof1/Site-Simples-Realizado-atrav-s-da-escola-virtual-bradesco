@@ -6,7 +6,7 @@ Faz parte de meus estudos
 
 <p align="center">
   <img alt="Projeto EV" src="imagens/tema claro.png width="100%"">
-  <img alt="Projeto EV" src="imagens/tema escuro.png" width="100%">
+  <img alt="Projeto EV" src="imagens/tema escuro.png" width="100%"">
 </p>
 
 <br>
